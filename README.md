@@ -8,7 +8,7 @@
 👶 1998.05.05 <br>
 📞 010-9045-5160 <br>
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:topaz7107@gmail.com)](mailto:topaz7107@gmail.com) <span><a href="https://www.notion.so/148714dd713080e68575e52decf7c999"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:topaz7107@gmail.com)](mailto:topaz7107@gmail.com) <span><a href="https://different-engine-809.notion.site/148714dd713080e68575e52decf7c999?pvs=4"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
 
 
 
